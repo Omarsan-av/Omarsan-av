@@ -1,4 +1,4 @@
-# Hi, I am Omar 🤵  
+# Hi, I am Omar 🤘😎
 
 ![Front page](https://omarsav.com/images/mi_portada.png)
 
