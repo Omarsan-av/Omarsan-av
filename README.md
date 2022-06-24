@@ -28,7 +28,7 @@ I am passionate about the world of technology, that is why I like to keep myself
 
 ## ⚒️ Projects 
 
--[Booking System](https://github.com/Platzi-Master-C9)
+- [Booking System](https://github.com/Platzi-Master-C9)
 
 It was a project developed in Platzi master, my participation here was as a frontend developer,
 developing components with React for the layout of the
