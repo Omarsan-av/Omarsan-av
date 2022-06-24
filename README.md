@@ -35,8 +35,10 @@ developing components with React for the layout of the
 app, using tools such as Jest, git, sass and yarn.
 For this project the monorepo pattern was used.
 
-## 📊 My stats
+## 📊 Some of my stats
 
 ![Graph](https://github-readme-stats.vercel.app/api?username=Omarsan-av)
+
+![Graph](https://github-readme-stats.vercel.app/api/top-langs/?username=Omarsan-av)
 
 <!--- Omarsan-av/Omarsan-av is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
