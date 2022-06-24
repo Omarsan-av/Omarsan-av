@@ -43,7 +43,7 @@ For this project the monorepo pattern was used.
 
 ## 🌎 Find me around the web:
 
--[Linkedin](https://www.linkedin.com/in/omarsan/)
+- [Linkedin](https://www.linkedin.com/in/omarsan/)
 
 
 <!--- Omarsan-av/Omarsan-av is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
