@@ -11,7 +11,7 @@ I am passionate about the world of technology, that is why I like to keep myself
 
 > Never stop learning !   
 
-## 💻 Some technologies I use:  
+## 🛠 Some technologies I use:  
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
@@ -26,7 +26,7 @@ I am passionate about the world of technology, that is why I like to keep myself
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 
-## 🛠 Projects 
+## 💻 Projects 
 
 - [Booking System](https://github.com/Platzi-Master-C9)
 
