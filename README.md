@@ -26,7 +26,7 @@ I am passionate about the world of technology, that is why I like to keep myself
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 
-## ⚒️ Projects 
+## 🛠 Projects 
 
 - [Booking System](https://github.com/Platzi-Master-C9)
 
@@ -34,6 +34,8 @@ It was a project developed in Platzi Master. My participation here was as a fron
 developing components with React for the layout of the
 app, using tools such as Jest, git, sass and yarn.
 For this project the monorepo pattern was used.
+
+## 📊 My stats
 
 ![Graph](https://github-readme-stats.vercel.app/api?username=Omarsan-av)
 
