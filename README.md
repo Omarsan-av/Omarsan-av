@@ -38,7 +38,7 @@ For this project the monorepo pattern was used.
 ## 📊 Some of my stats
 
 ![Graph](https://github-readme-stats.vercel.app/api/top-langs/?username=Omarsan-av)
-![Graph](https://github-readme-stats.vercel.app/api?username=Omarsan-av)
+      ![Graph](https://github-readme-stats.vercel.app/api?username=Omarsan-av)
 
 ## 🌎 Find me around the web:
 
