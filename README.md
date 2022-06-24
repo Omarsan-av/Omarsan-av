@@ -30,4 +30,11 @@ I am passionate about the world of technology, that is why I like to keep myself
 
 - Booking System
 
+[Booking System](https://pages.github.com/)
+
+It was a project developed in Platzi master, my participation here was as a frontend developer,
+developing components with React for the layout of the
+app, using tools such as Jest, git, sass and yarn.
+For this project the monorepo pattern was used.
+
 <!--- Omarsan-av/Omarsan-av is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
