@@ -19,7 +19,7 @@ I am passionate about the world of technology, that is why I like to keep myself
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
 ![Jest](https://img.shields.io/badge/Jest-FF8B00?style=for-the-badge&logo=jest&logoColor=white) 
-![Github](https://img.shields.io/badge/GitHub-a861db?style=for-the-badge&logo=github&logoColor=white) 
+![Github](https://img.shields.io/badge/GitHub-00FFB2?style=for-the-badge&logo=github&logoColor=white) 
 ![React](https://img.shields.io/badge/React-FF0800?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Mysql](https://img.shields.io/badge/MySQL-4D42D4?style=for-the-badge&logo=mysql&logoColor=white) 
