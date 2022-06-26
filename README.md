@@ -22,7 +22,7 @@ I am passionate about the world of technology, that is why I like to keep myself
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) 
 ![Github](https://img.shields.io/badge/GitHub-a861db?style=for-the-badge&logo=github&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
+![Mysql](https://img.shields.io/badge/MySQL-4D42D4?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-8251D7?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 
